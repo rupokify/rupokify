@@ -59,4 +59,3 @@ He loves to travel, take photographs and attending conferences, workshops, and s
 ***
 
 → **Keynote Speaker** , WordCamp Bangkok [Thailand], WordCamp Mumbai [India], CMS Developers Conference Dhaka [Bangladesh], Numerious other meetups and seminers in Bangladesh
-#### At a glimpse:
